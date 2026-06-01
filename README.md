@@ -22,6 +22,7 @@ I'm a developer focused on building decentralized solutions, primarily in the Bi
 - **[DoiWallet](https://github.com/davidreband/DoiWallet)** — DOI thin client for iOS & Android (React Native)
 - **[doiContacts](https://github.com/davidreband/doiContacts)** — Doichain Wallet for email and permissions
 - **[doichain-doi-wrapped](https://github.com/davidreband/doichain-doi-wrapped)** — Wrapped DOI smart contracts, Doichain ↔ Ethereum bridge
+- **[dapp](https://github.com/davidreband/dapp)** — Doichain Atomic Double-Opt-In Protocol (Meteor.js)
      
 
 
