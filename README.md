@@ -23,12 +23,7 @@ I'm a developer focused on building decentralized solutions, primarily in the Bi
 - **[doiContacts](https://github.com/davidreband/doiContacts)** — Doichain Wallet for email and permissions
 - **[doichain-doi-wrapped](https://github.com/davidreband/doichain-doi-wrapped)** — Wrapped DOI smart contracts, Doichain ↔ Ethereum bridge
      
-- ---
 
-### 📊 GitHub Stats
-
-![GitHub followers](https://img.shields.io/github/followers/davidreband?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/davidreband?label=Stars&style=social)
 
 ---
 
